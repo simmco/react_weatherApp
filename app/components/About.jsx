@@ -3,7 +3,7 @@ var React = require('react');
 var About = (props) => {
   return (
     <div>
-    <h3 className="text-center">About Component</h3>
+    <h3 className="text-center page-title">About Component</h3>
     <div className="media-object">
     <div className="media-object-section">
       <img src= "http://placeimg.com/200/200/people" />
